@@ -1,0 +1,687 @@
+DEBUG (1): Application booted.
+DEBUG (7): Application booted.
+DEBUG (3): Application booted.
+DEBUG (6): Application booted.
+DEBUG (2): Application booted.
+DEBUG (5): Application booted.
+DEBUG (4): Application booted.
+DEBUG (7): Radio successfully started
+DEBUG (6): Radio successfully started
+DEBUG (1): Radio successfully started
+DEBUG (3): Radio successfully started
+DEBUG (4): Radio successfully started
+DEBUG (2): Radio successfully started
+DEBUG (5): Radio successfully started
+DEBUG (5): Timer1 fired
+DEBUG (1): Timer1 fired
+DEBUG (1): Scheduled Route request for Node 7 from Node 1
+DEBUG (2): Timer1 fired
+DEBUG (6): Timer1 fired
+DEBUG (7): Timer1 fired
+DEBUG (4): Timer1 fired
+DEBUG (3): Timer1 fired
+
+-------------------------------------------
+
+DEBUG (1): >>>Sending ROUTE_REQ to broadcast 
+		 node requested: 7 
+ DEBUG (1): ROUTE_REQ sent to broadcast
+
+-------------------------------------------
+
+DEBUG (3): Received packet at time 0:0:4.947296123
+DEBUG (3): Node 3 received a Route Request message
+DEBUG (3): >>>Pack 
+		 Payload Received
+		 node requested: 7 
+ DEBUG (3): Scheduled message Route Request Forward from Node 3
+DEBUG (3): Received packet 0, person code digit 1, activating LED 1
+DEBUG (3): LED status: 010
+
+-------------------------------------------
+
+
+-------------------------------------------
+
+DEBUG (2): Received packet at time 0:0:4.947296123
+DEBUG (2): Node 2 received a Route Request message
+DEBUG (2): >>>Pack 
+		 Payload Received
+		 node requested: 7 
+ DEBUG (2): Scheduled message Route Request Forward from Node 2
+DEBUG (2): Received packet 0, person code digit 1, activating LED 1
+DEBUG (2): LED status: 010
+
+-------------------------------------------
+
+DEBUG (1): Packet sent... at time 0:0:4.947463969 
+
+-------------------------------------------
+
+DEBUG (2): >>>Sending ROUTE_REQ to broadcast 
+		 node requested: 7 
+ DEBUG (2): ROUTE_REQ sent to broadcast
+
+-------------------------------------------
+
+DEBUG (4): Received packet at time 0:0:5.118484493
+DEBUG (4): Node 4 received a Route Request message
+DEBUG (4): >>>Pack 
+		 Payload Received
+		 node requested: 7 
+ DEBUG (4): Scheduled message Route Request Forward from Node 4
+DEBUG (4): Received packet 0, person code digit 1, activating LED 1
+DEBUG (4): LED status: 010
+
+-------------------------------------------
+
+
+-------------------------------------------
+
+DEBUG (1): Received packet at time 0:0:5.118484493
+DEBUG (1): Node 1 received a Route Request message
+DEBUG (1): >>>Pack 
+		 Payload Received
+		 node requested: 7 
+ DEBUG (1): Node 1 already sent a Route Request message
+DEBUG (1): Received packet 0, person code digit 1, activating LED 1
+DEBUG (1): LED status: 010
+
+-------------------------------------------
+
+DEBUG (2): Packet sent... at time 0:0:5.118652339 
+
+-------------------------------------------
+
+DEBUG (3): >>>Sending ROUTE_REQ to broadcast 
+		 node requested: 7 
+ DEBUG (3): ROUTE_REQ sent to broadcast
+
+-------------------------------------------
+
+DEBUG (4): Received packet at time 0:0:5.218688912
+DEBUG (4): Node 4 received a Route Request message
+DEBUG (4): >>>Pack 
+		 Payload Received
+		 node requested: 7 
+ DEBUG (4): Node 4 already sent a Route Request message
+DEBUG (4): Received packet 1, person code digit 0, activating LED 0
+DEBUG (4): LED status: 110
+
+-------------------------------------------
+
+
+-------------------------------------------
+
+DEBUG (5): Received packet at time 0:0:5.218688912
+DEBUG (5): Node 5 received a Route Request message
+DEBUG (5): >>>Pack 
+		 Payload Received
+		 node requested: 7 
+ DEBUG (5): Scheduled message Route Request Forward from Node 5
+DEBUG (5): Received packet 0, person code digit 1, activating LED 1
+DEBUG (5): LED status: 010
+
+-------------------------------------------
+
+
+-------------------------------------------
+
+DEBUG (1): Received packet at time 0:0:5.218688912
+DEBUG (1): Node 1 received a Route Request message
+DEBUG (1): >>>Pack 
+		 Payload Received
+		 node requested: 7 
+ DEBUG (1): Node 1 already sent a Route Request message
+DEBUG (1): Received packet 1, person code digit 0, activating LED 0
+DEBUG (1): LED status: 110
+
+-------------------------------------------
+
+DEBUG (3): Packet sent... at time 0:0:5.218856758 
+
+-------------------------------------------
+
+DEBUG (4): >>>Sending ROUTE_REQ to broadcast 
+		 node requested: 7 
+ DEBUG (4): ROUTE_REQ sent to broadcast
+
+-------------------------------------------
+
+DEBUG (6): Received packet at time 0:0:5.485214215
+DEBUG (6): Node 6 received a Route Request message
+DEBUG (6): >>>Pack 
+		 Payload Received
+		 node requested: 7 
+ DEBUG (6): Scheduled message Route Request Forward from Node 6
+DEBUG (6): Received packet 0, person code digit 1, activating LED 1
+DEBUG (6): LED status: 010
+
+-------------------------------------------
+
+
+-------------------------------------------
+
+DEBUG (3): Received packet at time 0:0:5.485214215
+DEBUG (3): Node 3 received a Route Request message
+DEBUG (3): >>>Pack 
+		 Payload Received
+		 node requested: 7 
+ DEBUG (3): Node 3 already sent a Route Request message
+DEBUG (3): Received packet 1, person code digit 0, activating LED 0
+DEBUG (3): LED status: 110
+
+-------------------------------------------
+
+
+-------------------------------------------
+
+DEBUG (2): Received packet at time 0:0:5.485214215
+DEBUG (2): Node 2 received a Route Request message
+DEBUG (2): >>>Pack 
+		 Payload Received
+		 node requested: 7 
+ DEBUG (2): Node 2 already sent a Route Request message
+DEBUG (2): Received packet 1, person code digit 0, activating LED 0
+DEBUG (2): LED status: 110
+
+-------------------------------------------
+
+DEBUG (4): Packet sent... at time 0:0:5.485382061 
+
+-------------------------------------------
+
+DEBUG (5): >>>Sending ROUTE_REQ to broadcast 
+		 node requested: 7 
+ DEBUG (5): ROUTE_REQ sent to broadcast
+
+-------------------------------------------
+
+DEBUG (7): Received packet at time 0:0:5.689193714
+DEBUG (7): Node 7 received a Route Request message
+DEBUG (7): >>>Pack 
+		 Payload Received
+		 node requested: 7 
+ DEBUG (7): Node 7 received a Route Request message for itself
+DEBUG (7): Scheduled message Route Reply from Node 7
+DEBUG (7): Received packet 0, person code digit 1, activating LED 1
+DEBUG (7): LED status: 010
+
+-------------------------------------------
+
+
+-------------------------------------------
+
+DEBUG (6): Received packet at time 0:0:5.689193714
+DEBUG (6): Node 6 received a Route Request message
+DEBUG (6): >>>Pack 
+		 Payload Received
+		 node requested: 7 
+ DEBUG (6): Node 6 already sent a Route Request message
+DEBUG (6): Received packet 1, person code digit 0, activating LED 0
+DEBUG (6): LED status: 110
+
+-------------------------------------------
+
+
+-------------------------------------------
+
+DEBUG (3): Received packet at time 0:0:5.689193714
+DEBUG (3): Node 3 received a Route Request message
+DEBUG (3): >>>Pack 
+		 Payload Received
+		 node requested: 7 
+ DEBUG (3): Node 3 already sent a Route Request message
+DEBUG (3): Received packet 2, person code digit 9, activating LED 0
+DEBUG (3): LED status: 010
+
+-------------------------------------------
+
+DEBUG (5): Packet sent... at time 0:0:5.689361560 
+
+-------------------------------------------
+
+DEBUG (6): >>>Sending ROUTE_REQ to broadcast 
+		 node requested: 7 
+ DEBUG (6): ROUTE_REQ sent to broadcast
+
+-------------------------------------------
+
+DEBUG (7): Received packet at time 0:0:6.062637287
+DEBUG (7): Node 7 received a Route Request message
+DEBUG (7): >>>Pack 
+		 Payload Received
+		 node requested: 7 
+ DEBUG (7): Node 7 already sent a Route Reply message
+DEBUG (7): Received packet 1, person code digit 0, activating LED 0
+DEBUG (7): LED status: 110
+
+-------------------------------------------
+
+
+-------------------------------------------
+
+DEBUG (5): Received packet at time 0:0:6.062637287
+DEBUG (5): Node 5 received a Route Request message
+DEBUG (5): >>>Pack 
+		 Payload Received
+		 node requested: 7 
+ DEBUG (5): Node 5 already sent a Route Request message
+DEBUG (5): Received packet 1, person code digit 0, activating LED 0
+DEBUG (5): LED status: 110
+
+-------------------------------------------
+
+
+-------------------------------------------
+
+DEBUG (4): Received packet at time 0:0:6.062637287
+DEBUG (4): Node 4 received a Route Request message
+DEBUG (4): >>>Pack 
+		 Payload Received
+		 node requested: 7 
+ DEBUG (4): Node 4 already sent a Route Request message
+DEBUG (4): Received packet 2, person code digit 9, activating LED 0
+DEBUG (4): LED status: 010
+
+-------------------------------------------
+
+DEBUG (6): Packet sent... at time 0:0:6.062805132 
+
+-------------------------------------------
+
+DEBUG (7): >>>Sending ROUTE_REP to broadcast 
+		 sender: 7 
+ 		 node requested: 7 
+ 		 cost: 1 
+ DEBUG (7): ROUTE_REP sent to broadcast
+
+-------------------------------------------
+
+DEBUG (6): Received packet at time 0:0:6.365417466
+DEBUG (6): Node 6 received a Route Reply message
+DEBUG (6): >>>Pack 
+		 Payload Received
+		 sender: 7 
+ 		 node requested: 7 
+ 		 cost: 1 
+ DEBUG (6): Node 6 updated the routing table with destination 7, next hop 7 and cost 1
+DEBUG (6): Scheduled route_reply transmission from Node 6
+DEBUG (6): Received packet 2, person code digit 9, activating LED 0
+DEBUG (6): LED status: 010
+
+-------------------------------------------
+
+
+-------------------------------------------
+
+DEBUG (5): Received packet at time 0:0:6.365417466
+DEBUG (5): Node 5 received a Route Reply message
+DEBUG (5): >>>Pack 
+		 Payload Received
+		 sender: 7 
+ 		 node requested: 7 
+ 		 cost: 1 
+ DEBUG (5): Node 5 updated the routing table with destination 7, next hop 7 and cost 1
+DEBUG (5): Scheduled route_reply transmission from Node 5
+DEBUG (5): Received packet 2, person code digit 9, activating LED 0
+DEBUG (5): LED status: 010
+
+-------------------------------------------
+
+DEBUG (7): Packet sent... at time 0:0:6.365585312 
+
+-------------------------------------------
+
+DEBUG (5): >>>Sending ROUTE_REP to broadcast 
+		 sender: 5 
+ 		 node requested: 7 
+ 		 cost: 2 
+ DEBUG (5): ROUTE_REP sent to broadcast
+
+-------------------------------------------
+
+DEBUG (7): Received packet at time 0:0:6.841827351
+DEBUG (7): Node 7 received a Route Reply message
+DEBUG (7): >>>Pack 
+		 Payload Received
+		 sender: 5 
+ 		 node requested: 7 
+ 		 cost: 2 
+ DEBUG (7): Node 7 received a Route Reply message for itself
+DEBUG (7): Received packet 2, person code digit 9, activating LED 0
+DEBUG (7): LED status: 010
+
+-------------------------------------------
+
+
+-------------------------------------------
+
+DEBUG (6): Received packet at time 0:0:6.841827351
+DEBUG (6): Node 6 received a Route Reply message
+DEBUG (6): >>>Pack 
+		 Payload Received
+		 sender: 5 
+ 		 node requested: 7 
+ 		 cost: 2 
+ DEBUG (6): Received packet 3, person code digit 2, activating LED 2
+DEBUG (6): LED status: 011
+
+-------------------------------------------
+
+
+-------------------------------------------
+
+DEBUG (3): Received packet at time 0:0:6.841827351
+DEBUG (3): Node 3 received a Route Reply message
+DEBUG (3): >>>Pack 
+		 Payload Received
+		 sender: 5 
+ 		 node requested: 7 
+ 		 cost: 2 
+ DEBUG (3): Node 3 updated the routing table with destination 7, next hop 5 and cost 2
+DEBUG (3): Scheduled route_reply transmission from Node 3
+DEBUG (3): Received packet 3, person code digit 2, activating LED 2
+DEBUG (3): LED status: 011
+
+-------------------------------------------
+
+DEBUG (5): Packet sent... at time 0:0:6.841995196 
+
+-------------------------------------------
+
+DEBUG (6): >>>Sending ROUTE_REP to broadcast 
+		 sender: 6 
+ 		 node requested: 7 
+ 		 cost: 2 
+ DEBUG (6): ROUTE_REP sent to broadcast
+
+-------------------------------------------
+
+DEBUG (7): Received packet at time 0:0:6.941116304
+DEBUG (7): Node 7 received a Route Reply message
+DEBUG (7): >>>Pack 
+		 Payload Received
+		 sender: 6 
+ 		 node requested: 7 
+ 		 cost: 2 
+ DEBUG (7): Node 7 received a Route Reply message for itself
+DEBUG (7): Received packet 3, person code digit 2, activating LED 2
+DEBUG (7): LED status: 011
+
+-------------------------------------------
+
+
+-------------------------------------------
+
+DEBUG (5): Received packet at time 0:0:6.941116304
+DEBUG (5): Node 5 received a Route Reply message
+DEBUG (5): >>>Pack 
+		 Payload Received
+		 sender: 6 
+ 		 node requested: 7 
+ 		 cost: 2 
+ DEBUG (5): Received packet 3, person code digit 2, activating LED 2
+DEBUG (5): LED status: 011
+
+-------------------------------------------
+
+
+-------------------------------------------
+
+DEBUG (4): Received packet at time 0:0:6.941116304
+DEBUG (4): Node 4 received a Route Reply message
+DEBUG (4): >>>Pack 
+		 Payload Received
+		 sender: 6 
+ 		 node requested: 7 
+ 		 cost: 2 
+ DEBUG (4): Node 4 updated the routing table with destination 7, next hop 6 and cost 2
+DEBUG (4): Scheduled route_reply transmission from Node 4
+DEBUG (4): Received packet 3, person code digit 2, activating LED 2
+DEBUG (4): LED status: 011
+
+-------------------------------------------
+
+DEBUG (6): Packet sent... at time 0:0:6.941284150 
+
+-------------------------------------------
+
+DEBUG (3): >>>Sending ROUTE_REP to broadcast 
+		 sender: 3 
+ 		 node requested: 7 
+ 		 cost: 3 
+ DEBUG (3): ROUTE_REP sent to broadcast
+
+-------------------------------------------
+
+DEBUG (4): Received packet at time 0:0:7.106384264
+DEBUG (4): Node 4 received a Route Reply message
+DEBUG (4): >>>Pack 
+		 Payload Received
+		 sender: 3 
+ 		 node requested: 7 
+ 		 cost: 3 
+ DEBUG (4): Received packet 4, person code digit 8, activating LED 2
+DEBUG (4): LED status: 010
+
+-------------------------------------------
+
+
+-------------------------------------------
+
+DEBUG (5): Received packet at time 0:0:7.106384264
+DEBUG (5): Node 5 received a Route Reply message
+DEBUG (5): >>>Pack 
+		 Payload Received
+		 sender: 3 
+ 		 node requested: 7 
+ 		 cost: 3 
+ DEBUG (5): Received packet 4, person code digit 8, activating LED 2
+DEBUG (5): LED status: 010
+
+-------------------------------------------
+
+
+-------------------------------------------
+
+DEBUG (1): Received packet at time 0:0:7.106384264
+DEBUG (1): Node 1 received a Route Reply message
+DEBUG (1): >>>Pack 
+		 Payload Received
+		 sender: 3 
+ 		 node requested: 7 
+ 		 cost: 3 
+ DEBUG (1): Node 1 updated the routing table with destination 7, next hop 3 and cost 3
+DEBUG (1): Scheduled route_reply transmission from Node 1
+DEBUG (1): Received packet 2, person code digit 9, activating LED 0
+DEBUG (1): LED status: 010
+
+-------------------------------------------
+
+DEBUG (3): Packet sent... at time 0:0:7.106552110 
+
+-------------------------------------------
+
+DEBUG (1): >>>Sending ROUTE_REP to broadcast 
+		 sender: 1 
+ 		 node requested: 7 
+ 		 cost: 4 
+ DEBUG (1): ROUTE_REP sent to broadcast
+
+-------------------------------------------
+
+DEBUG (3): Received packet at time 0:0:7.168594349
+DEBUG (3): Node 3 received a Route Reply message
+DEBUG (3): >>>Pack 
+		 Payload Received
+		 sender: 1 
+ 		 node requested: 7 
+ 		 cost: 4 
+ DEBUG (3): Received packet 4, person code digit 8, activating LED 2
+DEBUG (3): LED status: 010
+
+-------------------------------------------
+
+
+-------------------------------------------
+
+DEBUG (2): Received packet at time 0:0:7.168594349
+DEBUG (2): Node 2 received a Route Reply message
+DEBUG (2): >>>Pack 
+		 Payload Received
+		 sender: 1 
+ 		 node requested: 7 
+ 		 cost: 4 
+ DEBUG (2): Node 2 updated the routing table with destination 7, next hop 1 and cost 4
+DEBUG (2): Scheduled route_reply transmission from Node 2
+DEBUG (2): Received packet 2, person code digit 9, activating LED 0
+DEBUG (2): LED status: 010
+
+-------------------------------------------
+
+DEBUG (1): Packet sent... at time 0:0:7.168762195 
+
+-------------------------------------------
+
+DEBUG (4): >>>Sending ROUTE_REP to broadcast 
+		 sender: 4 
+ 		 node requested: 7 
+ 		 cost: 3 
+ DEBUG (4): ROUTE_REP sent to broadcast
+
+-------------------------------------------
+
+DEBUG (6): Received packet at time 0:0:7.304962155
+DEBUG (6): Node 6 received a Route Reply message
+DEBUG (6): >>>Pack 
+		 Payload Received
+		 sender: 4 
+ 		 node requested: 7 
+ 		 cost: 3 
+ DEBUG (6): Received packet 4, person code digit 8, activating LED 2
+DEBUG (6): LED status: 010
+
+-------------------------------------------
+
+
+-------------------------------------------
+
+DEBUG (3): Received packet at time 0:0:7.304962155
+DEBUG (3): Node 3 received a Route Reply message
+DEBUG (3): >>>Pack 
+		 Payload Received
+		 sender: 4 
+ 		 node requested: 7 
+ 		 cost: 3 
+ DEBUG (3): Received packet 5, person code digit 5, activating LED 2
+DEBUG (3): LED status: 011
+
+-------------------------------------------
+
+
+-------------------------------------------
+
+DEBUG (2): Received packet at time 0:0:7.304962155
+DEBUG (2): Node 2 received a Route Reply message
+DEBUG (2): >>>Pack 
+		 Payload Received
+		 sender: 4 
+ 		 node requested: 7 
+ 		 cost: 3 
+ DEBUG (2): Node 2 updated the routing table with destination 7, next hop 4 and cost 3
+DEBUG (2): Node 2 already sent a Route Reply message
+DEBUG (2): Received packet 3, person code digit 2, activating LED 2
+DEBUG (2): LED status: 011
+
+-------------------------------------------
+
+DEBUG (4): Packet sent... at time 0:0:7.305130000 
+
+-------------------------------------------
+
+DEBUG (2): >>>Sending ROUTE_REP to broadcast 
+		 sender: 2 
+ 		 node requested: 7 
+ 		 cost: 5 
+ DEBUG (2): ROUTE_REP sent to broadcast
+
+-------------------------------------------
+
+DEBUG (1): Received packet at time 0:0:7.344131437
+DEBUG (1): Node 1 received a Route Reply message
+DEBUG (1): >>>Pack 
+		 Payload Received
+		 sender: 2 
+ 		 node requested: 7 
+ 		 cost: 5 
+ DEBUG (1): Scheduled message Data from Node 1
+DEBUG (1): Received packet 3, person code digit 2, activating LED 2
+DEBUG (1): LED status: 011
+
+-------------------------------------------
+
+DEBUG (2): Packet sent... at time 0:0:7.344299283 
+DEBUG (1): >>>Sending DATA_MESSAGE to next hop
+		 sender: 1 
+ 		 destination: 7 
+ DEBUG (1): DATA_MESSAGE sent to 3
+
+-------------------------------------------
+
+DEBUG (3): Received packet at time 0:0:7.408737161
+DEBUG (3): Node 3 received a Data message
+DEBUG (3): >>>Pack 
+		 Payload Received
+		 sender: 1 
+ 		 destination: 7 
+ 		 value: 5 
+ DEBUG (3): Scheduled Data message transmission from Node 3
+DEBUG (3): Received packet 6, person code digit 0, activating LED 0
+DEBUG (3): LED status: 111
+
+-------------------------------------------
+
+DEBUG (1): Packet sent... at time 0:0:7.408905006 
+DEBUG (1): Node 1 will not send any more data messages
+DEBUG (3): >>>Sending DATA_MESSAGE to next hop
+		 sender: 1 
+ 		 destination: 7 
+ DEBUG (3): DATA_MESSAGE sent to 5
+
+-------------------------------------------
+
+DEBUG (5): Received packet at time 0:0:7.676345792
+DEBUG (5): Node 5 received a Data message
+DEBUG (5): >>>Pack 
+		 Payload Received
+		 sender: 1 
+ 		 destination: 7 
+ 		 value: 5 
+ DEBUG (5): Scheduled Data message transmission from Node 5
+DEBUG (5): Received packet 5, person code digit 5, activating LED 2
+DEBUG (5): LED status: 011
+
+-------------------------------------------
+
+DEBUG (3): Packet sent... at time 0:0:7.676513637 
+DEBUG (5): >>>Sending DATA_MESSAGE to next hop
+		 sender: 1 
+ 		 destination: 7 
+ DEBUG (5): DATA_MESSAGE sent to 7
+
+-------------------------------------------
+
+DEBUG (7): Received packet at time 0:0:8.147705063
+DEBUG (7): Node 7 received a Data message
+DEBUG (7): >>>Pack 
+		 Payload Received
+		 sender: 1 
+ 		 destination: 7 
+ 		 value: 5 
+ DEBUG (7): Received packet 4, person code digit 8, activating LED 2
+DEBUG (7): LED status: 010
+
+-------------------------------------------
+
+DEBUG (5): Packet sent... at time 0:0:8.147872909 
